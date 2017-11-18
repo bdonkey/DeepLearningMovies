@@ -1,2 +1,7 @@
 .DS_Store
 data/*
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+credentials.py
+
